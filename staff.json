@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676caa54a181e19448fe6911"},"id_staff":"D01","nama":"Susan","umur":"19 tahun","alamat":"Karawang","jenis_kelamin":"perempuan"}
+{"_id":{"$oid":"676caa54a181e19448fe6912"},"id_staff":"D02","nama":"Riko","umur":"19 tahun","alamat":"Bekasi","jenis_kelamin":"laki-laki"}
